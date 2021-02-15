@@ -14,7 +14,7 @@
 
 .header {
     min-height: 100vh;
-    background: purple;
+    background: darkgreen;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,14 +25,14 @@
 
 .header-Maryna {
     font-size: 40px;
-    color: beige;
+    color: wheat;
     line-height: 50px;
     text-align: center;
 }
 
 .header__text {
     font-size: 20px;
-    color: beige;
+    color: wheat;
     margin-bottom: 30px;
 }
 
@@ -43,7 +43,7 @@
 
 .header__preview {
     font-size: 20px;
-    color: beige;
+    color: wheat;
 }
 
 header .Maryna__heart-span {
