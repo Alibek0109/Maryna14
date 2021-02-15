@@ -87,18 +87,16 @@ audio {
     margin: 0 auto 30px;
 }
 
-@media(max-width:1200px) {
-    
-}
-
-@media(max-width:992px) {
-    
-}
-
-@media(max-width:768px) {
-    
+.val-day {
+    font-size: 40px;
+    color: beige;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
 }
 
 @media(max-width:576px) {
-    
+    .val-day {
+        font-size: 20px;
+    }
 }
